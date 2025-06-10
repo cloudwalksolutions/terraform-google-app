@@ -87,14 +87,14 @@ variable "failover_cluster_name" {
 variable "github_owner" {
   description = "Github repo owner"
   type        = string
-  default     = "theboarderline"
+  default     = ""
 }
 
 
 variable "admin_email" {
   description = "App Admin email"
   type        = string
-  default     = "wnobrien@lakegames.us"
+  default     = ""
 }
 
 
