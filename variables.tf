@@ -548,7 +548,7 @@ variable "airtable_secret_names" {
 variable "app_chart_repo" {
   description = "Application helm chart repo url"
   type        = string
-  default     = "theboarderline.github.io/helm-charts"
+  default     = "boatload-llc.github.io/helm-charts"
 }
 
 
